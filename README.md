@@ -105,9 +105,8 @@ I believe strong technical skills come from consistent practice, clear documenta
 
 I’m happy to connect with people working in **IT infrastructure, networking, Linux, cybersecurity, and UI/UX design**.
 
-- **GitHub:** [@gauripro24-beep](https://github.com/gauripro24-beep)
-- **Portfolio / LinkedIn:** Add your preferred public link here
-- **Email:** Add a professional contact email here if you want it public
+- **LinkedIn:** www.linkedin.com/in/gauri-kushare-124276265
+- **Email:** gaurikushare93@gmail.com
 
 ---
 
