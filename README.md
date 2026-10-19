@@ -8,10 +8,10 @@
 
 # Hi, I'm Gauri 👋
 
-### IT Infrastructure • Networking • Linux • Cybersecurity • UI/UX Design
+### IT Infrastructure • Networking • Linux • Cybersecurity
 
 <p>
-  I’m building a versatile technical skill set across IT support, computer networking, Windows and Linux administration, cybersecurity, and modern UI/UX design. I enjoy understanding how systems work, solving technical problems, and creating digital experiences that are both useful and intuitive.
+  I’m building a versatile technical skill set across IT support, computer networking, Windows and Linux administration, cybersecurity. I enjoy understanding how systems work, solving technical problems, and creating digital experiences that are both useful and intuitive.
 </p>
 
 <p>
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Networking-1572B6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cybersecurity-1B1F23?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-8A2BE2?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
 </p>
 
 </div>
@@ -32,7 +31,6 @@
 - 🌐 Learning and practising **networking concepts, routing, switching, and network fundamentals**.
 - 🐧 Developing skills in **Linux administration, system configuration, and command-line workflows**.
 - 🛡️ Exploring **cybersecurity fundamentals, secure system practices, and network security**.
-- 🎨 Also interested in **advanced UI/UX design**, user-centred interfaces, visual hierarchy, and accessible digital experiences.
 - 🧪 Focused on learning through hands-on labs, practical exercises, and projects.
 - 🤝 Open to connecting with learners, IT professionals, designers, and project collaborators.
 
@@ -47,7 +45,7 @@
 | **Red Hat RHCSA** | Linux system administration, users and groups, storage, permissions, services, and system operations |
 | **Red Hat RHCE** | Advanced Linux administration concepts, automation, and Ansible-based configuration management |
 | **Cybersecurity** | Security fundamentals, threat awareness, defensive practices, and safer system and network operation |
-| **Advanced UI/UX Design** | User research, information architecture, wireframing, prototyping, usability, and interface design principles |
+|
 
 > **Profile accuracy tip:** List each item as a *course/training* unless you have officially earned the corresponding certification. If certified, update the wording and add a credential link where appropriate.
 
@@ -73,11 +71,6 @@
 - Network and system hardening fundamentals
 - Log awareness, risk reduction, and defensive security learning in authorised lab environments
 
-### UI/UX Design
-- User flows, wireframes, and interactive prototypes
-- Visual hierarchy, typography, spacing, and responsive layouts
-- Usability, accessibility, and consistent design systems
-
 ## 🚀 Projects I'd Like to Showcase
 
 I’m using practical projects to connect my learning with real-world workflows. This section can grow as I publish repositories.
@@ -86,7 +79,6 @@ I’m using practical projects to connect my learning with real-world workflows.
 - **Linux Administration Labs** — command references, user and permission management, and service configuration.
 - **Windows Administration Labs** — documented setup, administration, and troubleshooting exercises.
 - **Cybersecurity Notes & Labs** — defensive checklists, security concepts, and authorised practice-lab write-ups.
-- **UI/UX Case Studies** — problem statements, wireframes, prototypes, and design decisions.
 
 *Only add projects here once their repositories or case studies are published; link each project to its actual repository.*
 
@@ -98,7 +90,6 @@ I’m using practical projects to connect my learning with real-world workflows.
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
